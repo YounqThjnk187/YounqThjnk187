@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Thịnh!  
 
-🎓 Software Engineering student passionate about **Embedded Systems & Low-level Programming**  
+🎓 Computer Engineering student passionate about **Embedded Systems & Low-level Programming**  
 💡 Interested in **C/C++, RTOS, and IoT applications**  
 🚀 Career goal: Become an **Embedded Software Engineer** (Intern → Junior → Specialist)  
 ⚡ Fun fact: I enjoy debugging more than coding sometimes 😅  
