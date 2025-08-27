@@ -22,20 +22,20 @@
 
 ## 📊 GitHub Stats  
 
-![Thinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YounqThjnk&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YounqThjnk&layout=compact&theme=tokyonight)  
+![Thinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YounqThjnk187&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YounqThjnk187&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🚀 Featured Projects  
 
-- [🔹 Embedded RTOS Timer](https://github.com/YounqThjnk/embedded-rtos-timer)  
+- [🔹 Embedded RTOS Timer](https://github.com/YounqThjnk187/embedded-rtos-timer)  
   STM32 project using FreeRTOS timers for periodic tasks and low-power scheduling.  
 
-- [🔹 Python Data Tool](https://github.com/YounqThjnk/python-data-tool)  
+- [🔹 Python Data Tool](https://github.com/YounqThjnk187/python-data-tool)  
   A CLI tool for cleaning and visualizing datasets.  
 
-- [🔹 Portfolio Website](https://github.com/YounqThjnk/portfolio)  
+- [🔹 Portfolio Website](https://github.com/YounqThjnk187/portfolio)  
   Personal portfolio website built with HTML/CSS/JS.  
 
 ---
@@ -48,3 +48,4 @@
 ---
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
+
