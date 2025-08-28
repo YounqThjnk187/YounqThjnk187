@@ -29,8 +29,8 @@
 
 ## 🚀 Featured Projects  
 
-- [🔹 Embedded RTOS Timer](https://github.com/YounqThjnk187/embedded-rtos-timer)  
-  STM32 project using FreeRTOS timers for periodic tasks and low-power scheduling.  
+- [🔹 STM32 DC Motor PWM PID Control](https://github.com/YounqThjnk187/embedded-rtos-timer)  
+  STM32 project using PWM and PID to control DC Motor .  
 
 - [🔹 Python Data Tool](https://github.com/YounqThjnk187/python-data-tool)  
   A CLI tool for cleaning and visualizing datasets.  
