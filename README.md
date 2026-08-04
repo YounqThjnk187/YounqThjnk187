@@ -20,26 +20,7 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![Thinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YounqThjnk187&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YounqThjnk187&layout=compact&theme=tokyonight)  
-
----
-
-## 🚀 Featured Projects  
-
-- [🔹 STM32 DC Motor PWM PID Control](https://github.com/YounqThjnk187/stm32-dc-motor-pwm-pid)  
-  STM32 project using PWM and PID to control DC Motor .  
-
----
-
 ## 📫 Contact Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thinh-duong-a9bb92380/)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duongthinh1807@gmail.com)  
-
----
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
-
